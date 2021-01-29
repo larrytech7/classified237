@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e489031-14e6-4a9e-b6be-b3bc246abef1" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\about.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\css\default.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\css\fontawesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\css\ion.rangeSlider.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\css\magnific-popup.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\css\nice-select.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\css\slick.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-brands-400.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-brands-400.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-brands-400.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-brands-400.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-brands-400.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-brands-400d41d.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-light-300.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-light-300.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-light-300.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-light-300.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-light-300.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-light-300d41d.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-regular-400.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-regular-400.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-regular-400.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-regular-400.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-regular-400.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-regular-400d41d.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-solid-900.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-solid-900.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-solid-900.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-solid-900.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-solid-900.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\fonts\fa-solid-900d41d.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\about-image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\about-image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\about-image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\ads-1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\ads-10.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\ads-11.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\ads-12.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\ads-2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\ads-3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\ads-4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\ads-5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\ads-6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\ads-7.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\ads-8.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\ads-9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\author-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\author-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\author-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\author-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\blog-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\blog-10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\blog-11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\blog-12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\blog-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\blog-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\blog-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\blog-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\blog-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\blog-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\blog-8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\blog-9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\blog_details-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\blog_details-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\categories_icon\categories-1.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\categories_icon\categories-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\categories_icon\categories-3.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\categories_icon\categories-4.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\categories_icon\categories-5.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\choose.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\counter-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\hero.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\icon\counter-1.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\icon\counter-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\icon\counter-3.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\icon\payment-method1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\icon\payment-method2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\icon\payment-method3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\icon\payment-method4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\icon\pricing-1.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\icon\pricing-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\icon\pricing-3.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\locations-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\locations-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\locations-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\logo-white.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\page-banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\product_details-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\product_details-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\product_details-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\product_details-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\sidebar_icon\categories-1.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\sidebar_icon\categories-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\sidebar_icon\categories-3.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\sidebar_icon\categories-4.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\sidebar_icon\categories-5.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\sidebar_icon\categories-6.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\sidebar_icon\categories-7.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\sidebar_icon\categories-8.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\sidebar_icon\categories-9.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\signechar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\team-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\team-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\team-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\images\team-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\js\ajax-contact.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\js\ion.rangeSlider.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\js\jquery.counterup.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\js\jquery.magnific-popup.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\js\jquery.nice-select.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\js\main.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\js\popper.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\js\slick.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\js\vendor\jquery-1.12.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\js\vendor\modernizr-3.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\assets\js\waypoints.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\blog-details.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\blog.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\categories.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\contact.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\dashboard.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\error-404.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\faq.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\favourite-ads.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\my-ads.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\offermessages.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\payments.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\popper.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\post-ads.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\pricing.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\privacy-setting.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\product-details.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\product.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\profile-settings.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\sign-in.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\demo.graygrids.com\themes\classified\sign-up.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\hts-cache\doit.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\hts-cache\new.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\hts-cache\new.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\hts-cache\new.zip" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\hts-cache\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp64\www\classifieds\hts-cache\winprofile.ini" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="classifieds.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="classifieds" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classifieds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classifieds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classifieds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e489031-14e6-4a9e-b6be-b3bc246abef1" name="Default" comment="" />
+      <created>1611881096325</created>
+      <option name="number" value="Default" />
+      <updated>1611881096325</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
