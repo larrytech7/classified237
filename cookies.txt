@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.graygrids.com	TRUE	/	FALSE	1999999999	__cfduid	d43a312738b55184269da7bd262f72c4d1611880239
+demo.graygrids.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	dab95dffea9ecce9e95ee092cf211004f1611880269
+ajax.cloudflare.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
