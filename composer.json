@@ -1,5 +1,6 @@
 {
     "require": {
-        "codeigniter4/framework": "^4.0"
+        "codeigniter4/framework": "^4.0",
+        "codeigniter4/translations": "^4.0"
     }
 }

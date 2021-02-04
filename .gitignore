@@ -14,7 +14,12 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
+/writable/logs/*
+/writable/session/*
+/writable/cache/*
 /vendor/
 vendor/
 composer.lock
 .idea/
+env
+.env

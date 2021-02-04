@@ -15,6 +15,8 @@ namespace App\Controllers;
  */
 
 use CodeIgniter\Controller;
+use CodeIgniter\Exceptions\PageNotFoundException;
+use CodeIgniter\View\Exceptions\ViewException;
 
 class BaseController extends Controller
 {
@@ -42,5 +44,17 @@ class BaseController extends Controller
 		// E.g.:
 		// $this->session = \Config\Services::session();
 	}
+
+	public function view($page = '', $data = []){
+        try{
+            echo view('templates/header', $data);
+            echo view('public/' . $page, $data);
+            echo view('templates/footer', $data);
+        }catch (PageNotFoundException $ex){
+            throw new PageNotFoundException($page);
+        }catch(ViewException $ex){
+            throw new PageNotFoundException('pages/' . $page . '.php');
+        }
+    }
 
 }
